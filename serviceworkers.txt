@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/49314386/what-is-service-worker-in-react-js

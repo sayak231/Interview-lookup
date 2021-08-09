@@ -1,0 +1,17 @@
+.clock-cont {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#clock {
+  text-align: center;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+}
