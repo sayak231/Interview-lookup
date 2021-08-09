@@ -6,7 +6,7 @@ const clock = () => {
   let meridian = "AM";
 
   if (hrs === 0) {
-    hrs -= 12;
+    hrs = 12;
     meridian = "AM";
   } else if (hrs > 12) {
     meridian = "PM";
